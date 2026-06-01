@@ -1,0 +1,27 @@
+{
+  "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+  "name": "CurlyCouscous",
+  "publisher": "liboriopilato-cmyk",
+  "version": "1.0.0.0",
+  "brief": "Business Central security research extension for bug bounty work.",
+  "description": "Investigates security issues in Microsoft Dynamics 365 Business Central.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "https://github.com/liboriopilato-cmyk/curly-couscous",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "25.0.0.0",
+  "application": "25.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "",
+  "showMyCode": true,
+  "runtime": "14.0",
+  "features": []
+}
